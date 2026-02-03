@@ -2,3 +2,7 @@ streamlit==1.52.0
 snowflake-ml-python==1.20.0
 snowflake-snowpark-python==1.44.0
 pypdf
+trulens
+trulens-core
+trulens-providers-cortex
+trulens-connectors-snowflake
