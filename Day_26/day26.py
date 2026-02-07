@@ -343,7 +343,7 @@ IMPORTANT CONSTRAINTS:
   FROM SPECIFICATION
   $$
   models:
-    orchestration: claude-sonnet-4-5
+    orchestration: claude-3-5-sonnet
   instructions:
     response: '{instructions.replace("'", "''")}'
     orchestration: 'For metrics questions (totals, averages, counts, aggregations), use SalesAnalyst. For conversation questions (summaries, what was discussed), use ConversationSearch. Decline off-topic questions politely.'
